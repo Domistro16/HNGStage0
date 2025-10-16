@@ -34,7 +34,6 @@ function getUser() {
   };
 }
 
-// /me endpoint
 app.get("/me", async (req, res) => {
   res.setHeader("Cache-Control", "no-store, must-revalidate");
 
