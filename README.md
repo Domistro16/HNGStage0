@@ -1,6 +1,6 @@
 # Random Cat Fact API
 
-**GitHub:** `https://github.com/<your-username>/<repo-name>`
+**GitHub:** `https://github.com/domistro16/HNGStage0`
 
 A simple Express service exposing a single endpoint:
 
